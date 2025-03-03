@@ -1,10 +1,14 @@
-**# SCDM**
-2D Crystal generation via diffusion models guided by symmetry group constraints.
+# SCDM：Discovery of 2D Materials via Symmetry-Constrained Diffusion Model
+We introduce a symmetry-constrained diffusion model (SCDM) that integrates space group symmetry into the generative process.
 
-**# Environemnt**
+![图片1](https://github.com/user-attachments/assets/1608e7f2-da93-44bb-8002-bd5070ece32c)
+
+
+
+# Environemnt
 You can run !pip install -r requirement.txt to install packages required.
 
-**#Usage**
+# Usage
 
 FIRST Step:preprocess
 1.Using npz.py for data preprocessing via wyckoff position.
