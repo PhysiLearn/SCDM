@@ -30,7 +30,9 @@ pip install -r requirements.txt
 
 # 📖 Usage
 ## Step 1: Data Preprocessing
-1.Prepare your crystallographic data in POSCAR format under```bash ..SCDM/poscar/```
+0.Using csv_create.py for coding all the data that you used
+
+1.Prepare your crystallographic data in cif format under```bash ..SCDM/poscar/```
 
 2.Modify file paths in npz.py
 ```bash
