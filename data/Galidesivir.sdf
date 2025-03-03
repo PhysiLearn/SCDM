@@ -1,0 +1,193 @@
+69211190
+ OpenBabel04242015273D
+
+ 36 37  0  0  1  0  0  0  0  0999 V2000
+    1.4629    2.0146    1.9042 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8769   -0.3452   -0.2492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5764   -3.0480    0.4730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5766   -2.1984   -0.6900 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1675   -2.5039   -2.3183 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7391   -3.9923   -2.6978 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6815   -2.2807   -4.9606 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7245   -3.9760   -6.2327 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8158   -5.8147   -5.1604 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9552   -1.5802   -2.1472 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7847   -1.0788   -0.7222 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3507   -3.1643   -0.9727 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4293   -2.3294    0.0758 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1627   -2.3936   -2.5662 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8322   -3.3844   -0.6248 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3159   -2.7645   -3.8703 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1564   -3.0895   -1.8693 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1850   -3.7961   -3.9122 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3043   -4.5034   -5.1129 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9716   -2.8361   -6.1663 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8883   -0.7099   -2.8405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1340   -0.4398   -0.7118 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1071   -4.1798   -1.0052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1379   -2.1100    1.0078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0204   -1.9530   -2.5613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2644   -4.1018   -1.3564 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9379   -3.8562    0.3781 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4096   -3.0282   -0.8302 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9862    0.4226   -0.8712 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1486   -2.4244    0.9970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4631   -4.6934   -2.4322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3417   -1.6626    0.1096 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5665   -2.4047   -7.0698 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8348   -6.3743   -4.2922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7657   -6.3330   -6.0531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6336    1.4008    1.5219 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 36  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 30  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 19  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 34  1  0  0  0  0
+  9 35  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 14  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11  2  1  0  0  0  0
+ 11 13  1  1  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 12 23  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 24  1  1  0  0  0
+ 13  3  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+69211190
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+334
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+7
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzsAAEAAAAAAAAAAAAAAAAAWLAAAAsAAAAAAAAAFgB+AAAHgAQCAAADDzhngYt8LbJkgCgAxZnZACCgC0xEKAB2aAoVJiLeOLA2dGUZAhv0APZyCfw0OMOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>S</I>,3<I>S</I>,4<I>R</I>,5<I>R</I>)-2-(4-amino-5<I>H</I>-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,3S,4R,5R)-2-(4-azanyl-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-methylol-pyrrolidine-3,4-diol;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H15N5O3.ClH/c12-11-8-6(14-3-15-11)4(1-13-8)7-10(19)9(18)5(2-17)16-7;/h1,3,5,7,9-10,13,16-19H,2H2,(H2,12,14,15);1H/t5-,7+,9-,10+;/m1./s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+PCCHVYNGFMEGIG-QPAIBFMUSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+301.094167
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C11H16ClN5O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+301.73
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C(C2=C(N1)C(=NC=N2)N)C3C(C(C(N3)CO)O)O.Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C(C2=C(N1)C(=NC=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O.Cl
+
+>  <PUBCHEM_CACTVS_TPSA>
+140
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+301.094167
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  21  5
+12  15  6
+14  16  8
+14  17  8
+16  18  8
+18  19  8
+11  2  5
+13  3  5
+6  17  8
+6  18  8
+7  16  8
+7  20  8
+8  19  8
+8  20  8
+
+$$$$
