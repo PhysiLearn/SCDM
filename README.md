@@ -1,11 +1,10 @@
-# SCDM
+**# SCDM**
 2D Crystal generation via diffusion models guided by symmetry group constraints.
 
-#Environemnt
+**# Environemnt**
 You can run !pip install -r requirement.txt to install packages required.
 
-#Usage
-
+**#Usage**
 
 FIRST Step:preprocess
 1.Using npz.py for data preprocessing via wyckoff position.
