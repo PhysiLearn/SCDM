@@ -52,9 +52,9 @@ python TRAIN.py\
     --num_epochs 100 
     --save_dir models
 ```
-## Step 3: Generation (example)
+## Step 3: Generation 
 0. Load Your Trained Model
-Before generating new materials, load your trained model:
+before generating new materials, load your trained model:
 ```
 best_model_path = saved_path + '/' + 'BestModel.pth'
 #your trained model here
