@@ -69,11 +69,15 @@ python Generate.py
 
 # 🤝 Citation
 ```
-@article{xu2024discovery,
+@article{xu2025discovery,
   title={Discovery of 2D Materials via Symmetry-Constrained Diffusion Model},
   author={Xu, Shihang and Chu, Shibing and Mrad, Rami and Zhang, Zhejun and Li, Zhelin and Jiao, Runxian and Chen, Yuanping},
-  journal={arXiv preprint arXiv:2412.18414},
-  year={2024}
+  journal={The Journal of Physical Chemistry C},
+  volume={129},
+  number={14},
+  pages={6794--6802},
+  year={2025},
+  publisher={ACS Publications}
 }
 ```
 
